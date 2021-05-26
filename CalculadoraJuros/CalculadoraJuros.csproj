@@ -58,6 +58,12 @@
     <Compile Include="Eiji2.Designer.cs">
       <DependentUpon>Eiji2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Eiji3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eiji3.Designer.cs">
+      <DependentUpon>Eiji3.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm6.cs">
       <SubType>Form</SubType>
     </Compile>
