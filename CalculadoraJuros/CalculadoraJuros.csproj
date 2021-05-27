@@ -64,6 +64,18 @@
     <Compile Include="Eiji3.Designer.cs">
       <DependentUpon>Eiji3.cs</DependentUpon>
     </Compile>
+    <Compile Include="Eiji4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eiji4.Designer.cs">
+      <DependentUpon>Eiji4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eiji5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eiji5.Designer.cs">
+      <DependentUpon>Eiji5.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm6.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +119,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Eiji2.resx">
       <DependentUpon>Eiji2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eiji3.resx">
+      <DependentUpon>Eiji3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eiji4.resx">
+      <DependentUpon>Eiji4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eiji5.resx">
+      <DependentUpon>Eiji5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm1.resx">
       <DependentUpon>frm1.cs</DependentUpon>

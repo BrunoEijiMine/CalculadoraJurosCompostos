@@ -57,7 +57,9 @@ namespace CalculadoraJuros
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Eiji3 menu = new Eiji3();
+            menu.ShowDialog();
+            
         }
 
         private void button3_MouseEnter(object sender, EventArgs e)
@@ -82,6 +84,18 @@ namespace CalculadoraJuros
         {
             button4.ForeColor = Color.Black;
             button4.BackColor = Color.Transparent;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Eiji4 menu = new Eiji4();
+            menu.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Eiji5 menu = new Eiji5();
+            menu.ShowDialog();
         }
     }
 }

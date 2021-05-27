@@ -21,7 +21,7 @@ namespace CalculadoraJuros
         {
             var frm3 = new frm3();
             frm3.Show();
-            this.Hide();
+            
         }
 
         private void frm4_Load(object sender, EventArgs e)
@@ -38,28 +38,28 @@ namespace CalculadoraJuros
         {
             var frm2 = new frm2();
             frm2.Show();
-            this.Hide();
+          
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             var frm5 = new frm5();
             frm5.Show();
-            this.Hide();
+           
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             var frm6 = new frm6();
             frm6.Show();
-            this.Hide();
+           
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             var frm1 = new frm1();
             frm1.Show();
-            this.Hide();
+          
         }
     }
 }

@@ -81,6 +81,7 @@ namespace CalculadoraJuros
             this.button3.TabIndex = 2;
             this.button3.Text = "Calculo3";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             this.button3.MouseEnter += new System.EventHandler(this.button3_MouseEnter);
             this.button3.MouseLeave += new System.EventHandler(this.button3_MouseLeave);
             // 
@@ -96,6 +97,7 @@ namespace CalculadoraJuros
             this.button4.TabIndex = 3;
             this.button4.Text = "Calculo4";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             this.button4.MouseEnter += new System.EventHandler(this.button4_MouseEnter);
             this.button4.MouseLeave += new System.EventHandler(this.button4_MouseLeave);
             // 

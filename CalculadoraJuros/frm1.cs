@@ -40,7 +40,7 @@ namespace CalculadoraJuros
         {
             Eiji1 menu = new Eiji1();
             menu.ShowDialog();
-            this.Hide();
+            
         }
 
         private void btnCALCAPLI_Click(object sender, EventArgs e)

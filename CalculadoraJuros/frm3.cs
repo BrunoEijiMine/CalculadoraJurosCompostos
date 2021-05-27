@@ -31,7 +31,7 @@ namespace CalculadoraJuros
         {
             var frm4 = new frm4();
             frm4.Show();
-            this.Hide();
+            
         }
 
         private void txtPERÍODO_TextChanged(object sender, EventArgs e)
